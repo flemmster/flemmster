@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌊 Making Waves at 0117
+⭐ Git & Github newbie
+🎸 Music enthousiast
