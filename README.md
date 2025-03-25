@@ -4,7 +4,8 @@
 
 # Exciting stuff
 
-🌊 Making Waves at 0117  
+🌊 Making Waves at [0117](https://www.0117.nl)  
 🌱 Git & Github newbie  
 🧱 Slowly embracing WordPress FSE  
-🎸 Probably listening to distortion and screaming
+🎸 Probably listening to distortion and screaming  
+🗄️ And even collecting the stuff on [vinyl](https://vinyl.sydyh.nl)
