@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 - 🌊 Making Waves at 0117
 - ⭐ Git & Github newbie
+- 🧱 Slowly embracing WordPress FSE
 - 🎸 Music enthousiast
