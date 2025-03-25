@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Exciting stuff
 - 🌊 Making Waves at 0117
 - 🌱 Git & Github newbie
 - 🧱 Slowly embracing WordPress FSE
