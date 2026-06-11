@@ -8,4 +8,4 @@
 🌱 Git & Github newbie  
 🧱 Slowly embracing WordPress FSE  
 🎸 Probably listening to distortion and screaming  
-🗄️ And even collecting the stuff on [vinyl](https://vinyl.sydyh.nl)
+🗄️ And even collecting the stuff on [vinyl](https://vinyl.sydyh.com)
